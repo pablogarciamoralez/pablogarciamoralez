@@ -95,3 +95,5 @@ It allows you to search for information about different pokemons, you can sort t
  <p align="center">
  <a href="https://www.linkedin.com/in/pablogarciamoralez/" target="_blank" rel="noreferrer"><img align="center" src="https://res.cloudinary.com/henrysburgers/image/upload/v1660623438/github/linkedin-min_x8lbqa.png" /></a>
  </p>
+ 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=pablogarciamoralez&label=Profile%20views&color=0e75b6&style=flat" alt="pablogarciamoralez" /> </p>
